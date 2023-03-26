@@ -2,7 +2,7 @@
 name: Bug report for Avenger
 about: Create a report to help us improve
 title: ''
-labels: documentation, duplicate, enhancement
+labels: documentation, duplicate, enhancement, good first issue, help wanted, question
 assignees: ''
 
 ---
